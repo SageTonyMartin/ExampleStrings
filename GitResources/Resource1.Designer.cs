@@ -169,7 +169,7 @@ namespace GitResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to People I Love.
+        ///   Looks up a localized string similar to Tired of Contacts.
         /// </summary>
         internal static string strTitle {
             get {
