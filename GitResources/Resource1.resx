@@ -152,11 +152,13 @@
   </data>
   <data name="strSubTitle" xml:space="preserve">
     <value>Track all your contacts in one convenient location.</value>
+    <comment>Descriptive text about application that goes under the title</comment>
   </data>
   <data name="strTitle" xml:space="preserve">
-    <value>Contacts Application</value>
+    <value>Contacts Galore!</value>
+    <comment>Main title string displayed at top of window.</comment>
   </data>
   <data name="strZip" xml:space="preserve">
-    <value>Zip code:</value>
+    <value>Postal code:</value>
   </data>
 </root>

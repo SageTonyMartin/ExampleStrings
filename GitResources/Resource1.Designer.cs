@@ -169,7 +169,7 @@ namespace GitResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Contacts Manager.
+        ///   Looks up a localized string similar to Contacts Galore!.
         /// </summary>
         internal static string strTitle {
             get {
