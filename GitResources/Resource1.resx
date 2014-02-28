@@ -155,7 +155,7 @@
     <comment>Descriptive text about application that goes under the title</comment>
   </data>
   <data name="strTitle" xml:space="preserve">
-    <value>Contacts Galore!</value>
+    <value>People I Love</value>
     <comment>Main title string displayed at top of window.</comment>
   </data>
   <data name="strZip" xml:space="preserve">
