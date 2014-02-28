@@ -178,7 +178,7 @@ namespace GitResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Postal code:.
+        ///   Looks up a localized string similar to Zip code:.
         /// </summary>
         internal static string strZip {
             get {

@@ -159,6 +159,7 @@
     <comment>Main title string displayed at top of window.</comment>
   </data>
   <data name="strZip" xml:space="preserve">
-    <value>Postal code:</value>
+    <value>Zip code:</value>
+    <comment>Please LEAVE THIS AS ZIP CODE.</comment>
   </data>
 </root>
